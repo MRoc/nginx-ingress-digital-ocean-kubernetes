@@ -1,6 +1,6 @@
 # nginx-ingress-digital-ocean-kubernetes
 
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes
+Set up a kubernetes cluster with two echo services and an Nginx Ingress Controller on Digital Ocean. Based on https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes
 
 
 ## Prerequisite: Create a Kubernetes Cluster
